@@ -1,0 +1,5 @@
+.env
+
+# Compiled binaries
+chirpy
+server
